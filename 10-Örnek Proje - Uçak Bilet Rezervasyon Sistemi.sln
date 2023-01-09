@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Örnek Proje - Uçak Bilet Rezervasyon Sistemi", "10-Örnek Proje - Uçak Bilet Rezervasyon Sistemi\10-Örnek Proje - Uçak Bilet Rezervasyon Sistemi.csproj", "{FBA68A18-9F34-4AD2-9571-9E16049AA3AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-10 - Project - Airway Res. System", "10-Örnek Proje - Uçak Bilet Rezervasyon Sistemi\10-10 - Project - Airway Res. System.csproj", "{FBA68A18-9F34-4AD2-9571-9E16049AA3AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
